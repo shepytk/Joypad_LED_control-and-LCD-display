@@ -3,5 +3,6 @@
 /*
    Module contains all the include files for the project 
 */
-#include "Joystick.h"
+#include "Joypad.h"
 #include "LCD.h"
+#include "LED.h"
